@@ -1,0 +1,10 @@
+{
+    "suscriptora_df" : "data/raw_data/01_suscriptora_202201_202204.csv",
+    "target_df" : "data/raw_data/08_target_202201_202203.csv", 
+    "adenda" : "data/raw_data/02_adenda_202201_202204.csv", 
+    "perfil_digital" : "data/raw_data/03_perfil_digital_202201_202204.csv", 
+    "roaming" : "data/raw_data/04_roaming_202201_202204.csv", 
+    "terminales" : "data/raw_data/05_terminales_202201_202204.csv", 
+    "trafico" : "data/raw_data/06_trafico_202201_202204.csv", 
+    "convergente" : "data/raw_data/07_convergente_202201_202204.csv"
+}
