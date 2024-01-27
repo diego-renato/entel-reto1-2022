@@ -25,15 +25,14 @@ Project Organization
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering)
     │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
+    ├── pyproject.toml   <- dependences using poetry
     │
     ├── src                <- Source code for use in this project.
     │   ├── data_prep   <- Paste with the Scripts to prepare data
     │   │
     │   ├── ml          <- Pate with the principal function to load model 
     │   │                    
-    │   └── main.py     <- Script to evaluate models using kpi's
+    │   └── main.py     <- Main Script to run the ETL
     │
     └──
 
